@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/Nd8rZJpF/supinfo-logo-2020-quadri-png.png" alt="SUPINFO" width="120"/>
+  <img src="https://i.ibb.co/Nd8rZJpF/supinfo-logo-2020-quadri-png.png" alt="SUPINFO" width="250"/>
 </p>
 
 
