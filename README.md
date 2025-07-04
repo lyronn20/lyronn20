@@ -34,8 +34,6 @@
 
 ### 📂 Projets en cours
 
-- 🏙️ **SupCity** – Jeu de gestion de civilisation en Godot, avec IA, ressources, PNJ et stockage
-- 📱 **App PEA Tracker** – Application Flutter de suivi en temps réel d’un portefeuille boursier
 - 🌐 **Clone de Discord** – Application web de messagerie avec partage d’écran et appels vidéo (Next.js + WebRTC)
 
 ---
@@ -53,11 +51,3 @@
 ![Lyronn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyronn20&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lyronn20&theme=radical)](https://git.io/streak-stats)
 
----
-
-### 📈 Activité récente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
