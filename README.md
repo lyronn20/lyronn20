@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Logo_SUPINFO_2017.svg/1200px-Logo_SUPINFO_2017.svg.png](https://ibb.co/bMSFzCL6)" alt="SUPINFO" width="100"/>
+  <img src="https://i.ibb.co/Nd8rZJpF/supinfo-logo-2020-quadri-png.png" alt="SUPINFO" width="120"/>
 </p>
+
 
 <h1 align="center">Salut 👋, moi c'est Lyronn Langlois</h1>
 <h3 align="center">Étudiant à SUPINFO, passionné par le développement web, les systèmes, l'IA et les jeux vidéo 🎮</h3>
