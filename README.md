@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lyronn20&theme=radical" alt="GitHub Trophy"/>
+  </a>
+</p>
 
-<!--
-**lyronn20/lyronn20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![C++](https://img.shields.io/badge/C++-Advanced-blue?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-Advanced-yellow?logo=python)
+![JS](https://img.shields.io/badge/JavaScript-Intermediate-orange?logo=javascript)
+![Git](https://img.shields.io/badge/Git-Intermediate-red?logo=git)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-black?logo=linux)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyronn20&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lyronn20&theme=radical)](https://git.io/streak-stats)
+
