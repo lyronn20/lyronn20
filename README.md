@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Logo_SUPINFO_2017.svg/1200px-Logo_SUPINFO_2017.svg.png" alt="SUPINFO" width="100"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Logo_SUPINFO_2017.svg/1200px-Logo_SUPINFO_2017.svg.png](https://ibb.co/bMSFzCL6)" alt="SUPINFO" width="100"/>
 </p>
 
 <h1 align="center">Salut 👋, moi c'est Lyronn Langlois</h1>
@@ -10,8 +10,8 @@
 
 ### 🚀 À propos de moi
 - 🎓 Étudiant en 2ème année de Bachelor of Engineering (SUPINFO)
-- 📍 Basé à Caen / Saint-Arnoult, Normandie
-- 🔍 Je recherche une alternance en développement web / IA / systèmes & réseaux dès septembre 2025
+- 📍 Basé à Paris / Boulogne-Billancourt
+- 🔍 Je recherche une alternance en développement web / IA / systèmes & réseaux / Cybersécurité dès septembre 2025
 - 🌐 Mon portfolio : [lyronn-langlois.vercel.app](https://lyronn-langlois.vercel.app)
 - 📧 Contact : lyronn.langlois@supinfo.com
 
@@ -48,6 +48,5 @@
 
 ### 📊 Statistiques GitHub
 
-![Lyronn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyronn20&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lyronn20&theme=radical)](https://git.io/streak-stats)
 
