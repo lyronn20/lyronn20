@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://lyronn-langlois.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-orange?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/lyronn-langlois" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -25,11 +22,7 @@
                           <img src="https://img.shields.io/badge/Portfolio-Click%20Here-orange?style=for-the-badge&logo=vercel" alt="Portfolio" />
                         </a>
                       </p>
-- 📧 Contact : <p>
-                  <a href="https://www.linkedin.com/in/lyronn-langlois" target="_blank">
-                    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-                  </a>
-                </p>
+- 📧 Contact : lyronn.langlois@supinfo.com
 
 ---
 
