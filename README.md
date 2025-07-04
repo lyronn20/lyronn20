@@ -20,12 +20,16 @@
 - 🎓 Étudiant en 2ème année de Bachelor of Engineering (SUPINFO)
 - 📍 Basé à Paris / Boulogne-Billancourt
 - 🔍 Je recherche une alternance en développement web / IA / systèmes & réseaux / Cybersécurité dès septembre 2025
-- 🌐 Mon portfolio : <p align="center">
+- 🌐 Mon portfolio : <p>
                         <a href="https://lyronn-langlois.vercel.app" target="_blank">
                           <img src="https://img.shields.io/badge/Portfolio-Click%20Here-orange?style=for-the-badge&logo=vercel" alt="Portfolio" />
                         </a>
                       </p>
-- 📧 Contact : lyronn.langlois@supinfo.com
+- 📧 Contact : <p>
+                  <a href="https://www.linkedin.com/in/lyronn-langlois" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+                  </a>
+                </p>
 
 ---
 
