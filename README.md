@@ -49,5 +49,6 @@
 
 ### 📊 Statistiques GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lyronn20&theme=radical)](https://git.io/streak-stats)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lyronn20&theme=radical" alt="GitHub Streak"/>
+</p>
