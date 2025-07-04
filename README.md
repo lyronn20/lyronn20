@@ -1,8 +1,15 @@
-
 <p align="center">
   <img src="https://i.ibb.co/Nd8rZJpF/supinfo-logo-2020-quadri-png.png" alt="SUPINFO" width="250"/>
 </p>
 
+<p align="center">
+  <a href="https://lyronn-langlois.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-orange?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/lyronn-langlois" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 <h1 align="center">Salut 👋, moi c'est Lyronn Langlois</h1>
 <h3 align="center">Étudiant à SUPINFO, passionné par le développement web, les systèmes, l'IA et les jeux vidéo 🎮</h3>
