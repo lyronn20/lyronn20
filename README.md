@@ -14,9 +14,9 @@
 ---
 
 ### 🚀 À propos de moi
-- 🎓 Étudiant en 2ème année de Bachelor of Engineering (SUPINFO)
+- 🎓 Étudiant en 3ème année de Bachelor of Engineering (SUPINFO)
 - 📍 Basé à Caen 
-- 🔍 Je recherche une alternance en développement web / IA / systèmes & réseaux / Cybersécurité dès septembre 2025
+- 🔍 Je recherche une alternance en développement web / IA / systèmes & réseaux / Cybersécurité dès septembre 2026
 - 🌐 Mon portfolio : <p>
                         <a href="https://lyronn-langlois.vercel.app" target="_blank">
                           <img src="https://img.shields.io/badge/Portfolio-Click%20Here-orange?style=for-the-badge&logo=vercel" alt="Portfolio" />
